@@ -1,13 +1,10 @@
-<!--- NOTE: This is a template for your project README. Edit the content according to the comments provided.--->
 
 # <application_license_badge>
 <!--- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE) --->
 
-# <application_name>
-<!--- Description of the application. ---> 
+# BC Gov Terraform Template
 
-## Technical Details
-<!--- Technology Stack Used. ---> 
+This repo provides a starting point for users who want to create valid Terraform modules stored in GitHub.  
 
 ## Third-Party Products/Libraries used and the licenses they are covered by
 <!--- product/library and path to the LICENSE --->
@@ -20,25 +17,8 @@
 ## Documentation
 <!--- Point to another readme or create a GitHub Pages (https://guides.github.com/features/pages/) --->
 
-## Security
-<!--- Authentication, Authorization, Policies, etc --->
-
-## Files in this repository
-<!--- Use Tree to generate the file structure, try `tree -I '<excluded_paths>' -d -L 3`--->
-
 ## Getting Started
 <!--- setup env vars, secrets, instructions... --->
-
-## Deployment (Local Development)
-* Developer Workstation Requirements/Setup:
-<!--- instruction on Minishift/Docker/Other services.. --->
-
-* Application Specific Setup:
-<!--- instruction on setup local environment and dependencies.. --->
-
-
-## Deployment (OpenShift)
-<!--- Best to include details in a openshift/README.md --->
 
 ## Getting Help or Reporting an Issue
 <!--- Example below, modify accordingly --->
